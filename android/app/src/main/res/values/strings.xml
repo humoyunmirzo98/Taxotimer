@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">TruckerTracker</string>
+    <string name="title_activity_main">TruckerTracker</string>
+    <string name="package_name">com.trucker.tracker</string>
+    <string name="custom_url_scheme">com.trucker.tracker</string>
+
+    <!-- GPS foreground service notification -->
+    <string name="gps_channel_name">GPS Tracking</string>
+    <string name="gps_channel_description">Keeps location tracking active in the background</string>
+    <string name="gps_notification_title">TruckerTracker is running</string>
+    <string name="gps_notification_text">GPS tracking is active</string>
+</resources>
