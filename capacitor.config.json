@@ -1,0 +1,10 @@
+{
+  "appId": "com.trucker.tracker",
+  "appName": "TruckerTracker",
+  "webDir": "www",
+  "plugins": {
+    "Geolocation": {
+      "permissions": ["location"]
+    }
+  }
+}
